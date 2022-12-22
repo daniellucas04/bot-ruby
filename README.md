@@ -1,7 +1,5 @@
 <h1 align="center">Ruby ❤️</h1>
 
->Under development, may contain bugs ☠️
-
 ## Check List
 
 - [X] Bot working
