@@ -1,4 +1,5 @@
 <h1 align="center">Ruby ❤️</h1>
+Ruby is a bot for discord servers that seeks to teach about computer networking, introducing users to this area of computing.
 
 ## Check List
 
