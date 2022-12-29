@@ -1,5 +1,9 @@
-<h1 align="center">Ruby ❤️</h1>
-Ruby is a bot for discord servers that seeks to teach about computer networking, introducing users to this area of computing.
+<h1 align="center">Ruby</h1>
+
+## About
+Completion of course work to obtain the diploma of computer technician. Development entirely in JavaScript, along with auxiliary libraries and Discord API for robot integration with the platform.
+- Advisor: Lucas Araújo Oliveira.
+- Student guided: Daniel Lucas da Silva
 
 ## Check List
 
@@ -9,4 +13,3 @@ Ruby is a bot for discord servers that seeks to teach about computer networking,
 - [X] Database for questions
 - [X] Full commands
 - [X] Full questions
-- [ ] Online 24/7
