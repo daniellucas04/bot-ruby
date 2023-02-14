@@ -4,7 +4,7 @@
   "description": "Oxtron is a project with the objective to teach computer network in Discord",
   "main": "src/index.js",
   "scripts": {
-	"start": "node ."
+	"start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
